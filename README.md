@@ -4,7 +4,7 @@
 
 ACES Look Transforms are also known by the acronym "LMTs".
 
-The following is a very brief overview of Look Transforms (LMTs). More information can be found in the [ACES Documentatoin](docs.acescentral.com).
+The following is a very brief overview of Look Transforms (LMTs). More information can be found in the [ACES Documentation](docs.acescentral.com).
 
 There is also a multi-part series of posts on ACESCentral that detail the basic use and process for creating simple LMTs:
 
